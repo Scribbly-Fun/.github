@@ -1,4 +1,4 @@
-[Readme Image](../graphics/scribbly_banner.png)
+![Readme Image](../graphics/scribbly_banner.png)
 
 # Scribbly-Fun
 
