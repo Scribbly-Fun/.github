@@ -1,0 +1,29 @@
+name: Scribbly Issue
+description: Report issues with Scribbly's projects 
+title: "SCRB: "
+labels: ''
+assignees: 'ewilliams@0305'
+
+body: |
+  <!--
+  Please provide a clear and concise description of the issue.
+  -->
+
+  ## Description
+
+  <!-- Describe the issue or feature request -->
+
+  ## Steps to Reproduce / To Do
+
+  <!--
+  For bugs, please provide steps to reproduce the issue.
+  For feature requests, list the requirements or desired behavior.
+  -->
+
+  ## Expected Behavior / Desired Outcome
+
+  <!-- What did you expect to happen? -->
+
+  ## Additional Context / Screenshots
+
+  <!-- Add any other context or screenshots about the issue here. -->
